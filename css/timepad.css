@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.b-pro-wiget__pay-button, .b-pro-wiget__reg-button, .b-pro-wiget__reg-button:visited {
+    font-size: 18px !important;
+    font-family: "proxima-nova";
+    font-weight: 300;
+    color: #202633 !important;
+     -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;
+
+  outline: none !important;
+  padding: 16px;
+  padding-left: 30px;
+  padding-right: 30px;
+    text-decoration: none;
+   background-color: #FFDD00 !important;
+    text-shadow:none!important;
+    display: block;
+    border: none!important;
+    text-align:center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 40px;
+    margin-bottom: 40px
+}
+
+
+button#eventreg_submit:hover {
+    background-color: #ffe332 !important;
+}
+
+
+
+.b-registration__section_no-bottom-space {
+    padding-top: 40px;
+}
+
+
+.b-input-block__promo-btn {
+    font-size: 14px;
+   font-family: "proxima-nova";
+    font-weight: 300;
+    color: #202633 !important;
+    -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;
+
+  outline: none !important;
+  padding: 13px;
+  padding-left: 20px;
+  padding-right: 20px;
+    text-decoration: none;
+   background-color: #FFDD00 !important;
+    text-shadow:none!important;
+    display: block;
+    border: none!important;
+    text-align:center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 40px;
+    margin-bottom: 40px
+}
+
+
+.b-input-block__promo-btn:hover {
+    background-color: #ffe332 !important;
+}
+
+
+.b-input {
+    font-size: 18px!important;
+    font-family: "proxima-nova" !imporatnt;
+    font-weight: 300 !important;
+    color: #202633 !important;
+    line-height: 1!important;
+    border: none!important;
+    padding: 0 15px 0 15px!important;
+    height: 39px!important;
+    background: none !important;
+   box-shadow: none !important;
+       filter: none !important;
+    background-color: #f4f4f4 !important;
+    border-radius: 40px !important;
+}
+
+
+.b-registration__check {
+    display: none;
+}
+
+p.b-registration__footer {
+    display: none;
+}
+
+h5.b-unit__header_size_small.b-registration__header.b-indentable {
+    display: none;
+}
+
+.navigation {
+    box-shadow: rgba(0, 0, 0, 0.13) 0 4px 16px;
+}
+
+.i-page {
+    background-color: transparent !important;
+}
+
+.panel-group .panel {
+
+    border-bottom: 1px solid #dadada;
+    
+}
+
+.b-reg-descr {
+    font-size: 16px;
+    font-family: "pt-serif";
+   color: #202633;
+    line-height: 1.6;
+    background-color: transparent !important;
+    padding: 0px;
+    border-radius: 0px;
+    border-bottom: 0px;
+}
+
+
+.b-reg-table__text {
+    font-size: 14px;
+    font-family: "pt-serif";
+    font-weight: 300;
+    color: #202633;
+    line-height: 1.2!important;
+}
+
+.b-registration__question {
+  text-align:center;
+
+}
+
+.b-registration__terms {
+    color: #666;
+    margin-top: 20px;
+    line-height: 1.6;
+    font-family: "pt-serif";
+    font-style:italic;
+
+}
+
+a {
+    color: #CA2438;
+}
+
+a:hover, a:active, a:focus {
+    color: #CA2438;
+}
